@@ -1,0 +1,8 @@
+Hello,
+This is contributer 1 adding a new file to the git repository.
+the following commands were used :
+$ touch contributer1.txt
+$ nano contributer1.txt
+$ git add contributer1.txt
+$ git commit
+$ git push
